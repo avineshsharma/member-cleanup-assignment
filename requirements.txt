@@ -1,0 +1,2 @@
+pandas
+openpyxlgit add requirements.txt
